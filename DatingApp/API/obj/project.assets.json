@@ -1262,11 +1262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zivko\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\zivko\\OneDrive\\Desktop\\Angular-.NET-app\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\zivko\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\zivko\\OneDrive\\Desktop\\Angular-.NET-app\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\zivko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zivko\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\zivko\\OneDrive\\Desktop\\Angular-.NET-app\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
