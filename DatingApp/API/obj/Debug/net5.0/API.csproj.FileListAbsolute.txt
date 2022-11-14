@@ -62,7 +62,6 @@ C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.json
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\API.dll
-C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\ref\API.dll
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\API.pdb
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
@@ -104,7 +103,6 @@ C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
-C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
@@ -112,3 +110,9 @@ C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Pack.cache
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\msbuild.build.API.props
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\zivko\OneDrive\Desktop\Angular-.NET-app\DatingApp\API\obj\Debug\net5.0\refint\API.dll
