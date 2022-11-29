@@ -1,4 +1,5 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { ToastrService } from 'ngx-toastr';
 import { AccountService } from '../_services/account.service';
 
 @Component({
@@ -13,7 +14,7 @@ model: any = {};
 //za CHILD KLASU IDE EVENEMITER I TO ANG/CORE
 @Output() cancelRegister = new EventEmitter();
 
-  constructor(private accountService: AccountService) { }
+  constructor(private accountService: AccountService, private toastr: ToastrService) { }
 
   ngOnInit(): void {
   }
@@ -25,6 +26,7 @@ register()
     this.cancel();
   }, error => {
     console.log(error);
+    this.toastr.error(error.error);
   })
 }
 

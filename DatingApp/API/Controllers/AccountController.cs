@@ -32,6 +32,11 @@ namespace API.Controllers
         {
             var user = await _context.Users.SingleOrDefaultAsync(x => x.Username == loginDto.Username);
 
+            if(user == null)
+            {
+                return BadRequest("Invalid username");
+            }        
+
             using var hmac = new HMACSHA512(user.PasswordSalt);
 
             var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginDto.password));
@@ -80,6 +85,7 @@ namespace API.Controllers
             private async Task<bool> UserExist(string username)
             {
               return await _context.Users.AnyAsync(x => x.Username== username.ToLower());
+            
             }
 
 
